@@ -1,0 +1,335 @@
+{
+  "featuredVideos":
+  [
+    {
+      "fvID":1,
+      "image":"img/mostwatched-vid1.png",
+      "time": "4 min",
+      "title":"Julia Nunes + Feelings = New Album",
+      "description":"I felt a whole bunch of things and then wrote 9 million songs",
+      "author":"Julia Nunes",
+      "abbr": "P",
+      "date":"2 months ago",
+      "views":"7.9M"
+    },
+    {
+      "fvID":2,
+      "image":"img/mostwatched-vid2.png",
+      "time": "48 min",
+      "title":"Turn Your Phone Into Work Computer and Family Game",
+      "description":"Andromium will democratize desktop computer - unleash the full...",
+      "author":"Andromium Inc.",
+      "abbr": "B",
+      "date":"10 months ago",
+      "views":"5.1M"
+    },
+    {
+      "fvID":3,
+      "image":"img/mostwatched-vid3.png",
+      "time": "26 min",
+      "title":"ZEROHOUR RELIC XR:Tactical USB Battery Backup Flashlight",
+      "description":"Micro-USB rechareable tactical flashliht with 3400mAh USB batt...",
+      "author":"Zero Hour",
+      "abbr": "P",
+      "date":"2 weeks ago",
+      "views":"3.8M"
+    },
+    {
+      "fvID":4,
+      "image":"img/mostwatched-vid4.png",
+      "time": "5 min",
+      "title":"Trunkster: Zipperless Luggage with GPS + Battery + Scale",
+      "description":"Meet the world’s most revolutionary luggage, featuring zipperless entry ...",
+      "author":"Trunkster",
+      "abbr": "P",
+      "date":"3 weeks ago",
+      "views":"3.1M"
+    },
+    {
+      "fvID":5,
+      "image":"img/mostwatched-vid5.png",
+      "time": "3 min",
+      "title":"IMMERSIS",
+      "description":"The ultimate virtual reality experience for immersive gaming and vid...",
+      "author":"Catopsys",
+      "abbr": "P",
+      "date":"3 weeks ago",
+      "views":"3M"
+    },
+    {
+      "fvID":6,
+      "image":"img/mostwatched-vid6.png",
+      "time": "2 min",
+      "title":"JACK - The WiFi Guitar Cable",
+      "description":"Jack is the first guitar device to stream over Wi-Fi, plug into any ...",
+      "author":"Ingenious Audio",
+      "abbr": "P",
+      "date":"2 days ago",
+      "views":"2.8M"
+    },
+    {
+      "fvID":7,
+      "image":"img/mostwatched-vid7.png",
+      "time": "12 min",
+      "title":"X PlusOne: Your Ultimate Hover + Speed Aerial Camer...",
+      "description":"The X PlusOne is a revolutionary hybrid drone that combines the ...",
+      "author":"xCraft",
+      "abbr": "B",
+      "date":"1 month ago",
+      "views":"2.8M"
+    },
+    {
+      "fvID":8,
+      "image":"img/mostwatched-vid8.png",
+      "time": "4 min",
+      "title":"Tratar Bikes: Wooden Bicycles Carved for the Perfect Ride",
+      "description":"We’re not just about making bikes, we’re about creating a handmade ...",
+      "author":"Janez Tratar",
+      "abbr": "P",
+      "date":"2 months ago",
+      "views":"2.5M"
+    },
+    {
+      "fvID":9,
+      "image":"img/mostwatched-vid9.png",
+      "time": "10 min",
+      "title":"kraftwerk - highly innovative portable power plant",
+      "description":"A totally new energy supply technology for mobile electronic devices.",
+      "author":"eZelleron Inc.",
+      "abbr": "P",
+      "date":"6 months ago",
+      "views":"1.2M"
+    },
+    {
+      "fvID":10,
+      "image":"img/mostwatched-vid10.png",
+      "time": "4 min",
+      "title":"Krampus Beer Stein",
+      "description":"A new era of Beer Steins begins with this ultra modern stylized Krampus...",
+      "author":"Munktiki",
+      "abbr": "P",
+      "date":"6 months ago",
+      "views":"800K"
+    },
+    {
+      "fvID": 11,
+			"image": "img/featured-vid1.png",
+			"time": "4 min",
+			"title": "The Strangers Project",
+			"description": "A multi media installation page...",
+			"author":"Susan O'Brien",
+      "abbr": "P",
+			"date": "2 months ago",
+			"views": "200K"
+		},
+    {
+      "fvID": 12,
+			"image": "img/featured-vid2.png",
+			"time":"1 hr 2 min",
+			"title": "Foldio, BIGGER & SMARTER",
+			"description": "foldio is the first pop up studio for ....",
+			"author":"Orange Monkey",
+      "abbr": "B",
+			"date": "10 months ago",
+			"views": "2.3M"
+		},
+    {
+      "fvID": 13,
+      "image": "img/featured-vid3.png",
+      "time":"48 sec",
+      "title": "Freaker Feet! 127 USA made sock designs!",
+      "description": "Let's reclaim the import-dominated sock industry! Help us launch 127 ...",
+      "author":"Zach Crain",
+      "abbr": "B",
+      "date": "2 weeks ago",
+      "views": "85.5k"
+    },
+    {
+      "fvID": 14,
+      "image": "img/featured-vid4.png",
+      "time":"3 min",
+      "title": "Shadows of Esteren - A Medieval Horror RPG: Occultism",
+      "description": "A medieval role-playing game somewhere between Ravenloft, Game ...",
+      "author": "Jim Searcy",
+      "abbr": "P",
+      "date": "3 weeks ago",
+      "views": "884.1K"
+    },
+    {
+      "fvID": 15,
+      "image": "img/featured-vid5.png",
+      "time":"1 min",
+      "title": "Swish N' Flick Book Candles",
+      "description": "Handmade Magical candles to make you feel like you're in another world!",
+      "author": "Krystalle Wetz...",
+      "abbr": "P",
+      "date": "3 weeks ago",
+      "views": "215.7K"
+    },
+    {
+      "fvID": 16,
+      "image": "img/featured-vid6.png",
+      "time":"2 min",
+      "title": "Fevertone's Full Length Album 2015",
+      "description": "The Fevertones have a new album's worth of material ready, help us ...",
+      "author":"JacksonCavalier",
+      "abbr": "P",
+      "date": "3 days ago",
+      "views": "25K"
+    },
+    {
+      "fvID": 17,
+      "image": "img/featured-vid7.png",
+      "time":"53 min",
+      "title": "Ruku: a Rubik's cube solving robot for STEM education.",
+      "description": "Ruku: a Rubik's cube solving robot for STEM education. Teaching ...",
+      "author": "Gray Robot",
+      "abbr": "B",
+      "date": "1 month ago",
+      "views": "3.7M"
+    },
+    {
+      "fvID": 18,
+      "image": "img/featured-vid8.png",
+      "time":"33 min",
+      "title": "Cephalovepod Letterpress Valentine's Card SBPxPhineas",
+      "description": "Letterpress card featuring 'Cephalovepod' heart-shaped octopus ima...",
+      "author": "Eric Mersmann",
+      "abbr": "P",
+      "date": "2 month ago",
+      "views": "10.5K"
+    },
+    {
+      "fvID": 19,
+      "image": "img/featured-vid9.png",
+      "time":"45 min",
+      "title": "PERSU: Redefining Gym Bags for the Modern & Active Lifes...",
+      "description": "Functional, sleek, and durable sports luxe athletic bags designed to simp... ...",
+      "author": "PERSU",
+      "abbr": "B",
+      "date": "6 months ago",
+      "views": "1.8M"
+    },
+    {
+      "fvID": 20,
+      "image": "img/featured-vid10.png",
+      "time":"30 sec",
+      "title": "CHALLENGING SEXUAL ASSAULT AT UVA",
+      "description": "Using a play about a powerful Frenchman sexually assaulting a ...",
+      "author": "John Binkley",
+      "abbr": "P",
+      "date": "6 months ago",
+      "views": "78K"
+    },
+    {
+      "fvID":21,
+      "image":"img/trending-vid1.png",
+      "time": "4 min",
+      "title":"Kidokey • safe and distraction-free wi-fi box for kids",
+      "description":"Kidokey is a wi-fi box that empowers kids to explore the Internet saf...",
+      "author":"Kidokey",
+      "abbr": "P",
+      "date":"2 months ago",
+      "views":"32.1K"
+    },
+    {
+      "fvID":22,
+      "image":"img/trending-vid2.png",
+      "time": "3 min",
+      "title":"Indus Reclaimed High Performance Hiking Sticks",
+      "description":"Indus up-cycles discarded parts and materials into performance outdoo...",
+      "author":"Soulcake",
+      "abbr": "P",
+      "date":"10 months ago",
+      "views":"23K"
+    },
+    {
+      "fvID":23,
+      "image":"img/trending-vid3.png",
+      "time": "1 hr  2 min",
+      "title":"Ride North - A moto-photographic journey from SF to Al...",
+      "description":"2 photographer friends document an epic motorcycle journey from San ...",
+      "author":"Sebastiaan ",
+      "abbr": "P",
+      "date":"10 months ago",
+      "views":"20.8K"
+    },
+    {
+      "fvID":24,
+      "image":"img/trending-vid4.png",
+      "time": "1 hr",
+      "title":"Janapar: Love on a bike",
+      "description":"Four years, three continents, a man on a bicycle – and a girl. Now this ...",
+      "author":"Tom Allen ",
+      "abbr": "P",
+      "date":"3 weeks ago",
+      "views":"19K"
+    },
+    {
+      "fvID":25,
+      "image":"img/trending-vid5.png",
+      "time": "2 hr",
+      "title":"HITS - A Film By David Cross",
+      "description":"David Cross wants you to Pay-What-You-Want to see his film.",
+      "author":"David Cross ",
+      "abbr": "P",
+      "date":"2 days ago",
+      "views":"18.5K"
+    },
+    {
+      "fvID":26,
+      "image":"img/trending-vid6.png",
+      "time": "3 min",
+      "title":"INFINITY WALLET: The perfect minimalist wallet!",
+      "description":"We've taken away all that's unnecessary about a wallet and left only ...",
+      "author":"Derek Fausett ",
+      "abbr": "B",
+      "date":"2 days ago",
+      "views":"12.5K"
+    },
+    {
+      "fvID":27,
+      "image":"img/trending-vid7.png",
+      "time": "1 min",
+      "title":"Steampunk Menagerie in 28mm",
+      "description":"Clockwork Apes, Steam Crabs, Mechanical Gorillas and more for ...",
+      "author":"Westfalia Publis",
+      "abbr": "P",
+      "date":"1 month ago",
+      "views":"8.3K"
+    },
+    {
+      "fvID":28,
+      "image":"img/trending-vid8.png",
+      "time": "7 min",
+      "title":"Spirits of the Rice Paddy Board Game",
+      "description":"life of a Balinese farmer. Build your paddies, then plant, weed and harv...",
+      "author":"APE Gamer",
+      "abbr": "P",
+      "date":"2 months ago",
+      "views":"5.7K"
+    },
+    {
+      "fvID":29,
+      "image":"img/trending-vid9.png",
+      "time": "42 sec",
+      "title":"Send THE BRAVEST, THE BOLDEST Overseas & Beyond!",
+      "description":"Help launch award-winning short THE BRAVEST, THE BOLDEST on ...",
+      "author":"Moon Molson",
+      "abbr": "B",
+      "date":"6 months ago",
+      "views":"3.2K"
+    },
+    {
+      "fvID":30,
+      "image":"img/trending-vid10.png",
+      "time": "57 min",
+      "title":"The Heroes Project Film",
+      "description":"Seven amputee veterans take on the ultimate challenge of climbing the ...",
+      "author":"Heroes Project",
+      "abbr": "P",
+      "date":"6 months ago",
+      "views":"1.9K"
+    }
+  ]
+}

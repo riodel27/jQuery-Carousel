@@ -1,0 +1,200 @@
+body {
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  max-width: 1400px; }
+
+body:hover {
+  cursor: default; }
+
+h4 {
+  margin: 0;
+  margin-left: 100px;
+  margin-bottom: 15px;
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  letter-spacing: 1.5px;
+  color: #444444;
+  padding-right: 20px;
+  display: inline-block;
+  margin-right: 0;
+  letter-spacing: 2px; }
+  h4 span {
+    color: #aaaaaa; }
+
+.line {
+  margin-top: 15px;
+  margin-left: 80px; }
+
+section {
+  max-width: 100%;
+  display: -ms-flexbox;
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+  align-items: center; }
+  section button {
+    position: relative;
+    background-color: #da3610;
+    padding: 30px 5px;
+    border: 0;
+    max-width: 30px;
+    min-height: 170px;
+    color: #da3610; }
+  section button:hover {
+    cursor: pointer; }
+  section .leftarrow {
+    position: absolute;
+    top: 0;
+    background-color: #f4f4f4;
+    padding: 5px 7px;
+    left: 0;
+    color: #8f8f8f;
+    font-size: 13px;
+    font-weight: bold; }
+  section .rightarrow {
+    position: absolute;
+    top: 0;
+    background-color: #f4f4f4;
+    padding: 5px 7px;
+    left: 0;
+    color: #8f8f8f;
+    font-size: 13px;
+    font-weight: bold; }
+  section .btnArrowRight {
+    min-width: 28px;
+    background-image: url("../img/rightArrow.png");
+    background-repeat: no-repeat;
+    background-position: 10px 90px; }
+  section .btnArrowLeft {
+    min-width: 28px;
+    background-image: url("../img/leftArrow.png");
+    background-repeat: no-repeat;
+    background-position: 8px 90px; }
+  section .featured-videos-container {
+    max-width: 1200px;
+    flex: 2;
+    overflow: hidden;
+    position: relative;
+    height: 650px; }
+  section .featured-videos-subContainer {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    -webkit-flex-flow: row;
+    left: 0;
+    padding-bottom: 80px; }
+  section .featured-videos-container1 {
+    background-color: white;
+    min-width: 1200px;
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 100%;
+    padding: 15px 0 15px 0;
+    justify-content: space-around; }
+  section .featured-videos-container2 {
+    padding: 15px 0 15px 0;
+    background-color: white;
+    min-width: 1200px;
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 100%;
+    justify-content: space-around; }
+  section .featured-videos-container3 {
+    padding: 15px 0 15px 0;
+    background-color: white;
+    flex: 1;
+    min-width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 100%;
+    justify-content: space-around; }
+  section .vids {
+    margin: 0;
+    max-width: 210px;
+    max-height: 300px; }
+    section .vids img {
+      opacity: 1.0; }
+    section .vids a {
+      position: relative; }
+    section .vids .time {
+      position: absolute;
+      right: 0;
+      color: white;
+      background-color: black;
+      font-size: 13px;
+      letter-spacing: 1.5px;
+      padding: 5px 10px;
+      font-family: 'Lato', sans-serif;
+      font-weight: 500; }
+    section .vids h6 {
+      margin: 0;
+      font-size: 13px;
+      margin: 12px 0;
+      color: #444444;
+      font-family: 'Lato', sans-serif; }
+    section .vids p {
+      margin: 0;
+      font-size: 12px;
+      margin-bottom: 12px;
+      font-family: 'Lato', sans-serif;
+      font-style: italic;
+      color: #888888; }
+    section .vids .detail {
+      display: flex;
+      -webkit-flex-flow: row; }
+    section .vids .detailLeft {
+      flex: 2;
+      display: flex;
+      flex-wrap: wrap; }
+    section .vids a {
+      text-decoration: none;
+      font-family: 'Lato', sans-serif;
+      color: #aaaaaa;
+      font-size: 12px; }
+    section .vids .author {
+      font-size: 12px;
+      text-decoration: none;
+      font-family: 'Lato', sans-serif;
+      color: #aaaaaa; }
+    section .vids .abbr {
+      padding: 2px 4px;
+      color: #ffffff;
+      background-color: #aaaaaa;
+      font-size: 11px;
+      margin-left: 10px;
+      font-weight: bold;
+      font-family: 'Lato', sans-serif; }
+    section .vids .date {
+      font-family: 'Lato', sans-serif;
+      font-size: 12px;
+      color: #cccccc; }
+    section .vids .views {
+      flex: 1;
+      font-family: 'Lato', sans-serif;
+      font-size: 13px;
+      color: #aaaaaa;
+      font-weight: 600;
+      padding-left: 10px;
+      border-left: 1px solid #bbbbbb; }
+    section .vids .viewsWord {
+      font-size: 10px; }
+  section .imgHover img {
+    background-color: white;
+    opacity: 0.5; }
+  section .imgHover .time {
+    background-color: #999999; }
+  section .imgHover h6 {
+    color: #9ac1e3; }
+  section .imgHover .author {
+    color: #444444; }
+  section .imgHover .abbr {
+    background-color: #f25f5b; }
+  section .imgHover .views {
+    color: #5eb213; }
+    section .imgHover .views .viewsWord {
+      color: #bbbbbb; }
