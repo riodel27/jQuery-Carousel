@@ -31,7 +31,6 @@ h4{
 // Section Start--------------------------
 section{
   max-width: 100%;
-  display:-ms-flexbox;
   display: flex;
   justify-content: space-between;
   margin: 0;
@@ -40,6 +39,7 @@ section{
   button{
     position: relative;
     background-color: #da3610;
+    // background-color: red;
     padding: 30px 5px;
     border: 0;
     max-width: 30px;
